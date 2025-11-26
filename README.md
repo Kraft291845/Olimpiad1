@@ -4,3 +4,16 @@
 Найти решение на Бейсике, Python, Паскаль, Алгоритмический язык, Си ++
 
 0 <= B <= A
+
+
+LINUX BIN FILE:
+
+CODE/LINUX/mat
+
+
+WINDOWS X64 EXE FILE:
+
+CODE/WINDOWS_x64/mat.exe
+
+
+Все исполняемые файлы запускать нужно через консоль
